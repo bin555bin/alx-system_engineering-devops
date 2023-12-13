@@ -1,2 +1,1 @@
-#!/bin/bash
-alias ls = "rm *"
+my read me files in shell expan
